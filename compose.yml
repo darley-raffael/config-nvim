@@ -4,4 +4,4 @@ services:
     container_name: nvimsetup
 
     volumes:
-      - .:/home/root/.config/nvim/
+      - .:/root/.config/nvim/
